@@ -8,9 +8,10 @@ Eu transformo mecânicas complexas em experiências divertidas e sistemas robust
 
 ## 🛠️ No que estou trabalhando?
 
-- 🎮 Atualmente focado no **20 Games Challenge**.
+- 💼 Atualmente trabalho como Analista de Sistema no Rio de Janeiro, Brasil.
+- 🎮 Me divertindo em momentos com o **20 Games Challenge**.
 - 🧩 Desenvolvendo **Arr & Gee**, um puzzle-plataforma 2D em GDScript.
-- 📋 Aprimorando sistemas de chamados com **Python** e **Firebase**.
+- 📋 Desenvolvendo um sistema de chamados e acesso remoto com **Python** e **Firebase**.
 - 🎲 Projetando jogos analógicos como o **SKILL ISSUE** (sim, eu sei o que é um, literalmente) e o card game nórdico **Skandinavia**.
 
 ---
@@ -25,19 +26,17 @@ Eu transformo mecânicas complexas em experiências divertidas e sistemas robust
 | **Organização** | Notion, Git, GitHub |
 | **Design** | Game Mechanics, Level Design, Board Game Prototyping |
 
----
-
-## 📊 Estatísticas do GitHub
-
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=hrybch&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hrybch&layout=compact&theme=radical)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📫 Vamos conversar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ihurybach/)
-- 🎮 [Instagram](instagram.com/hrybch)
+- 🎮 [Instagram](https://instagram.com/hrybch/)
 - ✉️ [Seu E-mail](mailto:ihury.works@gmail.com)
 
 *"A vida é um jogo com um péssimo tutorial, mas ótimas mecânicas."*
