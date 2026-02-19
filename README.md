@@ -8,11 +8,11 @@ Eu transformo mecânicas complexas em experiências divertidas e sistemas robust
 
 ## 🛠️ No que estou trabalhando?
 
-- 💼 Atualmente trabalho como Analista de Sistema no Rio de Janeiro, Brasil.
+- 💼 Atualmente trabalho como **Analista de Sistema e Segurança** no Rio de Janeiro, Brasil.
 - 🎮 Me divertindo em momentos com o **20 Games Challenge**.
 - 🧩 Desenvolvendo **Arr & Gee**, um puzzle-plataforma 2D em GDScript.
 - 📋 Desenvolvendo um sistema de chamados e acesso remoto com **Python** e **Firebase**.
-- 🎲 Projetando jogos analógicos como o **SKILL ISSUE** (sim, eu sei o que é um, literalmente) e o card game nórdico **Skandinavia**.
+- 🎲 Projetando jogos analógicos como o **SKILL ISSUE** e o card game nórdico **Skandinavia**.
 
 ---
 
